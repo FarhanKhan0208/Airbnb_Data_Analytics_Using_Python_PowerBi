@@ -15,4 +15,8 @@ This project provides a comprehensive end-to-end analysis of Airbnb listings. Us
 * Seasonal Trends: Identified peak demand months where booking prices increase by over 20%.
 * Geospatial Insights: High-density clusters of listings correlate with proximity to major landmarks.
 # 📈 Power BI Dashboard()
-![image](https://github.com...)
+<img width="996" height="742" alt="Screenshot 2026-05-04 223418" src="https://github.com/user-attachments/assets/7a88701c-0db5-45d3-9e27-244adbede04a" />
+<img width="1069" height="746" alt="Screenshot 2026-05-04 223402" src="https://github.com/user-attachments/assets/a0ea8b16-6e04-442e-a28a-51339c28fe3e" />
+<img width="1006" height="745" alt="Screenshot 2026-05-04 223434" src="https://github.com/user-attachments/assets/fa8c651a-054c-4760-97b3-a300505e93f9" />
+<img width="987" height="738" alt="Screenshot 2026-05-04 223456" src="https://github.com/user-attachments/assets/ca677c23-ac97-4b11-ba4f-5b303c3d5173" />
+
