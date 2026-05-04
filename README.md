@@ -14,4 +14,5 @@ This project provides a comprehensive end-to-end analysis of Airbnb listings. Us
 * Pricing Factors:Discovered that room type (Entire home vs. Private room) is the strongest predictor of price.
 * Seasonal Trends: Identified peak demand months where booking prices increase by over 20%.
 * Geospatial Insights: High-density clusters of listings correlate with proximity to major landmarks.
-# 📈 Power BI Dashboard( )
+# 📈 Power BI Dashboard()
+![image](https://github.com...)
