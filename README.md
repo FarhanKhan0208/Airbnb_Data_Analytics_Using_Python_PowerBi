@@ -20,3 +20,4 @@ This project provides a comprehensive end-to-end analysis of Airbnb listings. Us
 <img width="1006" height="745" alt="Screenshot 2026-05-04 223434" src="https://github.com/user-attachments/assets/fa8c651a-054c-4760-97b3-a300505e93f9" />
 <img width="987" height="738" alt="Screenshot 2026-05-04 223456" src="https://github.com/user-attachments/assets/ca677c23-ac97-4b11-ba4f-5b303c3d5173" />
 
+[Dataset](https://mavenanalytics.io/data-playground/airbnb-listings-reviews)
